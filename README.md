@@ -1,15 +1,62 @@
 # ACES Repository Index
 
-## About
+## Status Indicators
 
+- ✔ Development Completed
+- 🛠 Currently Under Development
+- 🔥 Development Expected Soon
+- ❄ Development Paused
 
+## Active Projects
 
-## Repository List
+### [ACES Equipment Builder](https://github.com/automatic-controls/aces-equipment-builder)
+Desktop application that interfaces with *WebCTRL* to generate *EIKON* scripts using custom *.logicsymbol* libraries. Each library can be set to synchronize with a shared network drive. Additional capabilities include maintaining a shared set of favorite *.logicsymbol* and *.logic-script* files.
 
-- [aces-equipment-builder](https://github.com/automatic-controls/aces-equipment-builder)
+- 🛠 v2.0.0
+- ❄ Post to *ALCshare*
 
-  *ACES Equipment Builder* is a desktop application that interfaces with *WebCTRL* to generate *EIKON* scripts using custom *.logicsymbol* libraries. *ACES EB* is also capable of maintaining a shared set of favorite *.logicsymbol* and *.logic-script* files. *ACES EB* was developed for *Windows* and has not been tested on *Mac* or *Linux* operating systems.
+### [ACES EB VSCode Extension](https://github.com/automatic-controls/vscode-aces-equipment-builder)
+Extension for [Visual Studio Code](https://code.visualstudio.com/) that provides syntax highlighting and hover-text documentation for *ACES EB* configuration files.
 
-- [vscode-aces-equipment-builder](https://github.com/automatic-controls/vscode-aces-equipment-builder)
+- 🛠 v1.0.0
 
-  An extension for [Visual Studio Code](https://code.visualstudio.com/) that provides syntax highlighting and hover-text documentation for *ACES EB* configuration files. Syntax errors are usually indicated by red highlighting
+### WebCTRL Centralizer
+Database application that runs as a *Windows* service and a *WebCTRL* add-on that communicates with the database. Synchronizes operator credentials and/or files across all connected *WebCTRL* servers. Additional capabilities include automatic file retrieval and scheduled script execution.
+
+- ❄ v0.1.0-beta
+- 🔥 Migrate to *GitHub*
+
+### ACES Commissioner
+*WebCTRL* add-on that automates evaluation and enforcement of *ACES* commissioning standards on selected portions of the geographic tree.
+
+- ✔ v1.0.0
+- 🔥 Migrate to *GitHub*
+
+### Airflow Parameter Updater
+*WebCTRL* add-on that imports and/or exports *.csv* data related to airflow microblocks in selected portions of the geographic tree.
+
+- ✔ v1.0.0
+- ❄ Post to *ALCshare*
+- 🔥 Migrate to *GitHub*
+
+### GeoXML Exporter
+*WebCTRL* add-on that exports geographic tree *.xml* data used by *Inkscape* to generate *SVG* graphics. Supports an optional regular expression to modify display names.
+
+- ✔ v1.0.0
+- ❄ Post to *ALCshare*
+- 🔥 Migrate to *GitHub*
+
+### WebCTRL Certificate Manager
+TODO
+
+- ✔ v1.0.0
+- ❄ Post to *ALCshare*
+- 🔥 Migrate to *GitHub*
+
+## Future Projects
+
+### WebCTRL Scripts
+TODO
+
+### Graphics Provider
+TODO

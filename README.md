@@ -16,7 +16,7 @@ Desktop application that interfaces with *WebCTRL* to generate *EIKON* scripts u
 - ❄ Post to *ALCshare*
 
 ### [ACES EB VSCode Extension](https://github.com/automatic-controls/vscode-aces-equipment-builder)
-Extension for [Visual Studio Code](https://code.visualstudio.com/) that provides syntax highlighting and hover-text documentation for *ACES EB* configuration files.
+Extension for [*Visual Studio Code*](https://code.visualstudio.com/) that provides syntax highlighting and hover-text documentation for *ACES EB* configuration files.
 
 - 🛠 v1.0.0
 

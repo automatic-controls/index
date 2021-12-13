@@ -12,13 +12,13 @@
 ### [ACES Equipment Builder](https://github.com/automatic-controls/aces-equipment-builder)
 Desktop application that interfaces with *WebCTRL* to generate *EIKON* scripts using custom *.logicsymbol* libraries. Each library can be set to synchronize with a shared network drive. Additional capabilities include maintaining a shared set of favorite *.logicsymbol* and *.logic-script* files.
 
-- 🛠 v2.0.0
+- ✔ v2.0.2
 - ❄ Post to *ALCshare*
 
 ### [VSCode For ACES EB](https://github.com/automatic-controls/vscode-aces-equipment-builder)
 Extension for [*Visual Studio Code*](https://code.visualstudio.com/) that provides syntax highlighting and hover-text documentation for *ACES EB* configuration files.
 
-- 🛠 v1.0.0
+- ✔ v1.0.1
 
 ### WebCTRL Centralizer
 Database application that runs as a *Windows* service and a *WebCTRL* add-on that communicates with the database. Synchronizes operator credentials and/or files across all connected *WebCTRL* servers. Additional capabilities include automatic file retrieval and scheduled script execution.

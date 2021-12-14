@@ -16,7 +16,7 @@ Desktop application that interfaces with *WebCTRL* to generate *EIKON* scripts u
 - ❄ Post to *ALCshare*
 
 ### [VSCode For ACES EB](https://github.com/automatic-controls/vscode-aces-equipment-builder)
-Extension for [*Visual Studio Code*](https://code.visualstudio.com/) that provides syntax highlighting and hover-text documentation for *ACES EB* configuration files.
+Extension for [*Visual Studio Code*](https://code.visualstudio.com/) that provides language support for *ACES EB* configuration files.
 
 - ✔ v1.0.1
 
@@ -33,7 +33,7 @@ Database application that runs as a *Windows* service and a *WebCTRL* add-on tha
 - 🔥 Migrate to *GitHub*
 
 ### Airflow Parameter Updater
-*WebCTRL* add-on that imports and/or exports *.csv* data related to airflow microblocks in selected portions of the geographic tree.
+*WebCTRL* add-on that imports and exports *.csv* data related to airflow microblocks in selected portions of the geographic tree.
 
 - ✔ v1.0.0
 - ❄ Post to *ALCshare*
@@ -47,7 +47,7 @@ Database application that runs as a *Windows* service and a *WebCTRL* add-on tha
 - 🔥 Migrate to *GitHub*
 
 ### WebCTRL Certificate Manager
-TODO
+Uses [*Let's Encrypt*](https://letsencrypt.org/) with [*CertBot*](https://certbot.eff.org/) to automate *WebCTRL* certificate renewal.
 
 - ✔ v1.0.0
 - ❄ Post to *ALCshare*
@@ -56,13 +56,12 @@ TODO
 ## Future Projects
 
 ### WebCTRL Scripts
-TODO
+*WebCTRL* add-on that provides scripting capabilities to query and modify nodes on the geographic and network tree. Scripts may be synchronized across multiple servers using [*WebCTRL Centralizer*](#webctrl-centralizer). Intended to replace [*ACES Commissioner*](#aces-commissioner).
 
 ### Graphics Provider
-TODO
+*WebCTRL* add-on that dynamically generates graphics pages using *HTML* template files with extended syntax to query and modify nodes on the geographic tree. Templates may be synchronized across multiple servers using [*WebCTRL Centralizer*](#webctrl-centralizer).
 
-### VSCode For EIKON Scripts
-TODO
+### PID Tuner
+*WebCTRL* add-on that evaluates PID performance and auto-tunes parameters. PID evaluation can be scheduled to recur at regular intervals. When performance ratings drop below acceptable standards, parameters may be auto-tuned.
 
-- Possibly fork <https://github.com/MellowMarshmallow/groovy-plugin>
-
+## Inactive Projects

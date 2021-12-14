@@ -1,5 +1,9 @@
 ## Weekly Progress Log
 
+### **12/13/2021 - 12/17/2021**
+- Finished documentation for *ACES EB*
+- Patched bugs in *ACES EB*
+
 ### **12/06/2021 - 12/10/2021**
 - Patched bugs and improved functionality of *ACES EB*
 - Improved documentation for *ACES EB*

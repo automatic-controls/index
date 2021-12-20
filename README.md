@@ -19,12 +19,12 @@ Extension for [*Visual Studio Code*](https://code.visualstudio.com/) that provid
 
 - ✔ v1.0.2
 
-## Active Projects
-
 ### [WebCTRL Add-On Development Utility](https://github.com/automatic-controls/webctrl-addon-dev)
 *Batch* script used to automate certain aspects of *WebCTRL* add-on development. Features include automated keystore management and dependency collection.
 
-- 🛠 v1.0.0
+- ✔ v1.0.0
+
+## Active Projects
 
 ### WebCTRL Centralizer
 Database application that runs as a *Windows* service and a *WebCTRL* add-on that communicates with the database. Synchronizes operator credentials and/or files across all connected *WebCTRL* servers. Additional capabilities include automatic file retrieval and scheduled script execution.
@@ -45,10 +45,10 @@ Database application that runs as a *Windows* service and a *WebCTRL* add-on tha
 - 🔥 Migrate to *GitHub*
 
 ### GeoXML Exporter
-*WebCTRL* add-on that exports geographic tree *.xml* data used by *Inkscape* to generate *SVG* graphics. Supports an optional regular expression to modify display names.
+*WebCTRL* add-on that exports geographic tree *.xml* data used by *Inkscape* to generate *SVG* graphics. An optional regular expression can be used to modify display names.
 
 - ✔ v0.1.0
-- 🔥 Migrate to *GitHub*
+- 🛠 Migrate to *GitHub*
 
 ### WebCTRL Certificate Manager
 Uses [*Let's Encrypt*](https://letsencrypt.org/) with [*CertBot*](https://certbot.eff.org/) to automate *WebCTRL* certificate renewal.

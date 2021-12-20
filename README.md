@@ -7,6 +7,18 @@
 - 🔥 Development Expected Soon
 - ❄ Development Paused
 
+## Completed Projects
+
+### [ACES Equipment Builder](https://github.com/automatic-controls/aces-equipment-builder)
+Desktop application that interfaces with *WebCTRL* to generate *EIKON* scripts using custom *.logicsymbol* libraries. Each library can be set to synchronize with a shared network drive. Additional capabilities include maintaining a shared set of favorite *.logicsymbol* and *.logic-script* files.
+
+- ✔ v2.0.4
+
+### [VSCode For ACES EB](https://github.com/automatic-controls/vscode-aces-equipment-builder)
+Extension for [*Visual Studio Code*](https://code.visualstudio.com/) that provides language support for *ACES EB* configuration files.
+
+- ✔ v1.0.2
+
 ## Active Projects
 
 ### [WebCTRL Add-On Development Utility](https://github.com/automatic-controls/webctrl-addon-dev)
@@ -43,18 +55,6 @@ Uses [*Let's Encrypt*](https://letsencrypt.org/) with [*CertBot*](https://certbo
 
 - ✔ v0.1.0
 - 🔥 Migrate to *GitHub*
-
-## Inactive Projects
-
-### [ACES Equipment Builder](https://github.com/automatic-controls/aces-equipment-builder)
-Desktop application that interfaces with *WebCTRL* to generate *EIKON* scripts using custom *.logicsymbol* libraries. Each library can be set to synchronize with a shared network drive. Additional capabilities include maintaining a shared set of favorite *.logicsymbol* and *.logic-script* files.
-
-- ✔ v2.0.4
-
-### [VSCode For ACES EB](https://github.com/automatic-controls/vscode-aces-equipment-builder)
-Extension for [*Visual Studio Code*](https://code.visualstudio.com/) that provides language support for *ACES EB* configuration files.
-
-- ✔ v1.0.2
 
 ## Future Projects
 

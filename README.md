@@ -24,6 +24,11 @@ Extension for [*Visual Studio Code*](https://code.visualstudio.com/) that provid
 
 - ✔ v1.0.0
 
+### [Geographic Tree XML Exporter](https://github.com/automatic-controls/geo-xml-export-addon)
+*WebCTRL* add-on that exports structural geographic tree data as an *XML* file intended for use in *Inkscape* to create *SVG* graphics. An optional regular expression transform can be used to preprocess display names for *Inkscape* label-text.
+
+- ✔ v1.0.0
+
 ## Active Projects
 
 ### WebCTRL Centralizer
@@ -40,12 +45,6 @@ Database application that runs as a *Windows* service and a *WebCTRL* add-on tha
 
 ### Airflow Parameter Updater
 *WebCTRL* add-on that imports and exports *.csv* data related to airflow microblocks in selected portions of the geographic tree.
-
-- ✔ v0.1.0
-- 🔥 Migrate to *GitHub*
-
-### GeoXML Exporter
-*WebCTRL* add-on that exports geographic tree *.xml* data used by *Inkscape* to generate *SVG* graphics. An optional regular expression can be used to modify display names.
 
 - ✔ v0.1.0
 - 🛠 Migrate to *GitHub*

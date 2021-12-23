@@ -43,8 +43,8 @@ Database application that runs as a *Windows* service and a *WebCTRL* add-on tha
 - ✔ v0.1.0
 - 🔥 Migrate to *GitHub*
 
-### Airflow Parameter Updater
-*WebCTRL* add-on that imports and exports *.csv* data related to airflow microblocks in selected portions of the geographic tree.
+### [Airflow Control Importer/Exporter](https://github.com/automatic-controls/airflow-controller-addon)
+*WebCTRL* add-on that imports and exports *CSV* data related to airflow microblocks in selected portions of the geographic tree.
 
 - ✔ v0.1.0
 - 🛠 Migrate to *GitHub*

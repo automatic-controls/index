@@ -31,6 +31,11 @@ Extension for [*Visual Studio Code*](https://code.visualstudio.com/) that provid
 
 ## Active Projects
 
+### [Advanced Node Reporter](https://github.com/automatic-controls/node-report-addon)
+*WebCTRL* add-on that imports and exports node values as *CSV* data. Report parameters are defined using *JSON* files.
+
+- 🛠 v1.0.0
+
 ### WebCTRL Centralizer
 Database application that runs as a *Windows* service and a *WebCTRL* add-on that communicates with the database. Synchronizes operator credentials and/or files across all connected *WebCTRL* servers. Additional capabilities include automatic file retrieval and scheduled script execution.
 
@@ -42,12 +47,6 @@ Database application that runs as a *Windows* service and a *WebCTRL* add-on tha
 
 - ✔ v0.1.0
 - 🔥 Migrate to *GitHub*
-
-### [Airflow Control Importer/Exporter](https://github.com/automatic-controls/airflow-controller-addon)
-*WebCTRL* add-on that imports and exports *CSV* data related to airflow microblocks in selected portions of the geographic tree.
-
-- ✔ v0.1.0
-- 🛠 Migrate to *GitHub*
 
 ### WebCTRL Certificate Manager
 Uses [*Let's Encrypt*](https://letsencrypt.org/) with [*CertBot*](https://certbot.eff.org/) to automate *WebCTRL* certificate renewal.

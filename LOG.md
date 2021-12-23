@@ -1,5 +1,10 @@
 ## Weekly Progress Log
 
+### **12/20/2021 - 12/23/2021**
+- Finished WebCTRL addon development utility script
+- Completed migration of GeoTreeExportXML addon to GitHub
+- Started process of improving/rewriting the airflow parameter updater addon
+
 ### **12/13/2021 - 12/17/2021**
 - Finished documentation for *ACES EB*
 - Patched bugs in *ACES EB* and the corresponding *VSCode* extension

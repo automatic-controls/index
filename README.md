@@ -31,21 +31,15 @@ Extension for [*Visual Studio Code*](https://code.visualstudio.com/) that provid
 
 ## Active Projects
 
-### [Advanced Node Reporter](https://github.com/automatic-controls/node-report-addon)
+### [Advanced Data Queries](https://github.com/automatic-controls/data-query-addon)
 *WebCTRL* add-on that imports and exports node values as *CSV* data. Report parameters are defined using *JSON* files.
 
-- 🛠 v1.0.0
+- 🛠 v0.1.0
 
 ### WebCTRL Centralizer
 Database application that runs as a *Windows* service and a *WebCTRL* add-on that communicates with the database. Synchronizes operator credentials and/or files across all connected *WebCTRL* servers. Additional capabilities include automatic file retrieval and scheduled script execution.
 
 - ❄ v0.1.0-beta
-- 🔥 Migrate to *GitHub*
-
-### ACES Commissioner
-*WebCTRL* add-on that automates evaluation and enforcement of *ACES* commissioning standards on selected portions of the geographic tree.
-
-- ✔ v0.1.0
 - 🔥 Migrate to *GitHub*
 
 ### WebCTRL Certificate Manager
@@ -56,11 +50,8 @@ Uses [*Let's Encrypt*](https://letsencrypt.org/) with [*CertBot*](https://certbo
 
 ## Future Projects
 
-### WebCTRL Scripts
-*WebCTRL* add-on that provides scripting capabilities to query and modify nodes on the geographic and network tree. Scripts may be synchronized across multiple servers using [*WebCTRL Centralizer*](#webctrl-centralizer). Intended to replace [*ACES Commissioner*](#aces-commissioner).
-
 ### Graphics Provider
-*WebCTRL* add-on that dynamically generates graphics pages using *HTML* template files with extended syntax to query and modify nodes on the geographic tree. Templates may be synchronized across multiple servers using [*WebCTRL Centralizer*](#webctrl-centralizer).
+*WebCTRL* add-on that dynamically generates graphics pages using *HTML* template files with extended syntax to query and modify nodes on the geographic tree.
 
 ### PID Tuner
 *WebCTRL* add-on that evaluates PID performance and auto-tunes parameters. PID evaluation can be scheduled to recur at regular intervals. When performance ratings drop below acceptable standards, parameters may be auto-tuned.

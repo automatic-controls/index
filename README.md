@@ -32,7 +32,7 @@ Extension for [*Visual Studio Code*](https://code.visualstudio.com/) that provid
 ## Active Projects
 
 ### [Advanced Data Queries](https://github.com/automatic-controls/data-query-addon)
-*WebCTRL* add-on that imports and exports node values as *CSV* data. Report parameters are defined using *JSON* files.
+*WebCTRL* add-on that imports and exports *CSV* data according to queries defined in *JSON* files. Supports optional data validation and cleansing.
 
 - 🛠 v0.1.0
 

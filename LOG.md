@@ -1,5 +1,8 @@
 ## Weekly Progress Log
 
+### **12/28/2021 - 12/30/2021**
+- Worked on data query addon for the purpose of replacing the commissioning and airflow addons
+
 ### **12/20/2021 - 12/23/2021**
 - Finished WebCTRL addon development utility script
 - Completed migration of GeoTreeExportXML addon to GitHub

@@ -34,7 +34,7 @@ Extension for [*Visual Studio Code*](https://code.visualstudio.com/) that provid
 ### [Advanced Data Queries](https://github.com/automatic-controls/data-query-addon)
 *WebCTRL* add-on that imports and exports *CSV* data according to queries defined in *JSON* files. Supports optional data validation and cleansing.
 
-- 🛠 v0.1.0
+- ❄ v0.1.0-beta
 
 ### WebCTRL Centralizer
 Database application that runs as a *Windows* service and a *WebCTRL* add-on that communicates with the database. Synchronizes operator credentials and/or files across all connected *WebCTRL* servers. Additional capabilities include automatic file retrieval and scheduled script execution.
@@ -45,8 +45,7 @@ Database application that runs as a *Windows* service and a *WebCTRL* add-on tha
 ### WebCTRL Certificate Manager
 Uses [*Let's Encrypt*](https://letsencrypt.org/) with [*CertBot*](https://certbot.eff.org/) to automate *WebCTRL* certificate renewal.
 
-- ✔ v0.1.0
-- 🔥 Migrate to *GitHub*
+- 🛠 v1.0.0
 
 ## Future Projects
 

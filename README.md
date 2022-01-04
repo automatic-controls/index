@@ -19,6 +19,11 @@ Extension for [*Visual Studio Code*](https://code.visualstudio.com/) that provid
 
 - ✔ v1.0.2
 
+### [WebCTRL Certificate Manager](https://github.com/automatic-controls/webctrl-cert-manager)
+Batch script which provides commands to assist with the management of SSL certificates for *WebCTRL*.
+
+- ✔ v1.0.0
+
 ### [WebCTRL Add-On Development Utility](https://github.com/automatic-controls/webctrl-addon-dev)
 *Batch* script used to automate certain aspects of *WebCTRL* add-on development. Features include automated keystore management and dependency collection.
 
@@ -40,12 +45,6 @@ Extension for [*Visual Studio Code*](https://code.visualstudio.com/) that provid
 Database application that runs as a *Windows* service and a *WebCTRL* add-on that communicates with the database. Synchronizes operator credentials and/or files across all connected *WebCTRL* servers. Additional capabilities include automatic file retrieval and scheduled script execution.
 
 - ❄ v0.1.0-beta
-- 🔥 Migrate to *GitHub*
-
-### WebCTRL Certificate Manager
-Uses [*Let's Encrypt*](https://letsencrypt.org/) with [*CertBot*](https://certbot.eff.org/) to automate *WebCTRL* certificate renewal.
-
-- 🛠 v1.0.0
 - 🔥 Migrate to *GitHub*
 
 ## Future Projects

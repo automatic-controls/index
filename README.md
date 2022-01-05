@@ -41,11 +41,11 @@ Batch script which provides commands to assist with the management of SSL certif
 
 - ❄ v0.1.0-beta
 
-### WebCTRL Centralizer
+### [WebCTRL Centralizer](https://github.com/automatic-controls/webctrl-centralizer)
 Database application that runs as a *Windows* service and a *WebCTRL* add-on that communicates with the database. Synchronizes operator credentials and/or files across all connected *WebCTRL* servers. Additional capabilities include automatic file retrieval and scheduled script execution.
 
 - ❄ v0.1.0-beta
-- 🔥 Migrate to *GitHub*
+- 🛠 Migrate to *GitHub*
 
 ## Future Projects
 

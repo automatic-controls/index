@@ -53,3 +53,14 @@ Database application that runs as a *Windows* service and a *WebCTRL* add-on tha
 
 ### Graphics Provider
 *WebCTRL* add-on that dynamically generates graphics pages using *HTML* template files with extended syntax to query and modify nodes on the geographic tree.
+
+## Untracked Projects
+
+### ACES Commissioner
+*WebCTRL* add-on that helps to enforce various ACES commissioning standards. Will be replaced by [Advanced Data Queries](#advanced-data-queries).
+
+### Airflow Parameter Updater
+*WebCTRL* add-on that imports and exports airflow configuration parameters as CSV data. Will be replaced by [Advanced Data Queries](#advanced-data-queries).
+
+### Patches for *ALC*'s *Inkscape* Extension
+I've made various minor modifications to the *Python* extension *ALC* created for *Inkscape*. I don't know how *ALC* has licensed this extension, so I am reluctant to put the relevant files on *GitHub*.

@@ -56,10 +56,10 @@ Database application that runs as a *Windows* service and a *WebCTRL* add-on tha
 
 ## Untracked Projects
 
-### ACES Commissioner
+### [ACES Commissioner](untracked-projects/aces-commissioner)
 *WebCTRL* add-on that helps to enforce various ACES commissioning standards. Will be replaced by [Advanced Data Queries](#advanced-data-queries).
 
-### Airflow Parameter Updater
+### [Airflow Parameter Updater](untracked-projects/airflow-parameter-updater)
 *WebCTRL* add-on that imports and exports airflow configuration parameters as CSV data. Will be replaced by [Advanced Data Queries](#advanced-data-queries).
 
 ### Patches for *ALC*'s *Inkscape* Extension

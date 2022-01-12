@@ -1,5 +1,8 @@
 ## Weekly Progress Log
 
+### **01/10/2022 - 01/14/2022**
+- Worked on *WebCTRL* Centralizer
+
 ### **01/03/2022 - 01/07/2022**
 - Created batch script to manage SSL certificates for *WebCTRL*
 - Improved *WebCTRL* addon utility script

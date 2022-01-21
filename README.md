@@ -1,5 +1,7 @@
 # ACES Repository Index
 
+WebCTRL is a trademark of Automated Logic Corporation.  Any other trademarks mentioned herein are the property of their respective owners.
+
 ## Status Indicators
 
 - ✔ Development Completed
@@ -19,12 +21,12 @@ Extension for [*Visual Studio Code*](https://code.visualstudio.com/) that provid
 
 - ✔ v1.0.2
 
-### [WebCTRL Certificate Manager](https://github.com/automatic-controls/webctrl-cert-manager)
+### [Certificate Manager for WebCTRL](https://github.com/automatic-controls/cert-manager-for-webctrl)
 Batch script which provides commands to assist with the management of SSL certificates for *WebCTRL*.
 
 - ✔ v1.0.0
 
-### [WebCTRL Add-On Development Utility](https://github.com/automatic-controls/webctrl-addon-dev)
+### [Add-On Development Utility for WebCTRL](https://github.com/automatic-controls/addon-dev-script)
 *Batch* script used to automate certain aspects of *WebCTRL* add-on development. Features include automated keystore management and dependency collection.
 
 - ✔ v1.0.1
@@ -36,7 +38,7 @@ Batch script which provides commands to assist with the management of SSL certif
 
 ## Active Projects
 
-### [WebCTRL Centralizer](https://github.com/automatic-controls/webctrl-centralizer)
+### [Centralizer for WebCTRL](https://github.com/automatic-controls/centralizer-for-webctrl)
 Database application that runs as a *Windows* service and a *WebCTRL* add-on that communicates with the database. Synchronizes operator credentials and/or files across all connected *WebCTRL* servers. Additional capabilities include automatic file retrieval and scheduled script execution.
 
 - 🛠 v0.1.0-beta

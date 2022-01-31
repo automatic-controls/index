@@ -1,5 +1,11 @@
 ## Weekly Progress Log
 
+### **01/31/2022 - 02/04/2022**
+- TBD
+
+### **01/24/2022 - 01/28/2022**
+- Worked on Centralizer for *WebCTRL*
+
 ### **01/17/2022 - 01/21/2022**
 - Worked on Centralizer for *WebCTRL*
 - Made minor additions to the addon devlopment utility

@@ -1,5 +1,8 @@
 ## Weekly Progress Log
 
+### **02/07/2022 - 02/11/2022**
+- Finished ReportFTP add-on v0.1.0-beta
+
 ### **01/31/2022 - 02/04/2022**
 - Worked on Centralizer for *WebCTRL*
 - Developed ReportFTP add-on

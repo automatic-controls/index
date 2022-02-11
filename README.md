@@ -36,12 +36,12 @@ Batch script which provides commands to assist with the management of SSL certif
 
 - ✔ v1.0.0
 
-## Active Projects
-
 ### [Report FTP](https://github.com/automatic-controls/report-ftp-addon)
-*WebCTRL* add-on that can be configured to send scheduled reports to an *FTP* server.
+*WebCTRL* add-on that can be configured to send scheduled reports to a remote server using the FTP, FTPS, or SFTP protocols.
 
-- 🛠 v1.0.0
+- ✔ v0.1.0-beta
+
+## Active Projects
 
 ### [Centralizer for WebCTRL](https://github.com/automatic-controls/centralizer-for-webctrl)
 Database application that runs as a *Windows* service and a *WebCTRL* add-on that communicates with the database. Synchronizes operator credentials and/or files across all connected *WebCTRL* servers. Additional capabilities include automatic file retrieval and scheduled script execution.

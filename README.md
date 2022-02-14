@@ -39,7 +39,7 @@ Batch script which provides commands to assist with the management of SSL certif
 ### [Report FTP](https://github.com/automatic-controls/report-ftp-addon)
 *WebCTRL* add-on that can be configured to send scheduled reports to a remote server using the FTP, FTPS, or SFTP protocols.
 
-- ✔ v0.1.0-beta
+- ✔ v0.1.1-beta
 
 ## Active Projects
 

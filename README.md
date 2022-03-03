@@ -48,6 +48,11 @@ Database application that runs as a *Windows* service and a *WebCTRL* add-on tha
 
 - 🛠 v0.1.0-beta
 
+### [Airflow Damper Testing](https://github.com/automatic-controls/airflow-test-addon)
+WebCTRL add-on that evaluates airflow responsiveness to damper commands according to design parameters.
+
+- 🛠 v0.1.0-beta
+
 ### [Advanced Data Queries](https://github.com/automatic-controls/data-query-addon)
 *WebCTRL* add-on that imports and exports *CSV* data according to queries defined in *JSON* files. Supports optional data validation and cleansing.
 

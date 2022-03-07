@@ -41,15 +41,15 @@ Batch script which provides commands to assist with the management of SSL certif
 
 - ✔ v0.1.1-beta
 
+### [Airflow Damper Testing](https://github.com/automatic-controls/airflow-test-addon)
+WebCTRL add-on that evaluates airflow responsiveness to damper commands according to design parameters.
+
+- ✔ v0.1.0-beta
+
 ## Active Projects
 
 ### [Centralizer for WebCTRL](https://github.com/automatic-controls/centralizer-for-webctrl)
 Database application that runs as a *Windows* service and a *WebCTRL* add-on that communicates with the database. Synchronizes operator credentials and/or files across all connected *WebCTRL* servers. Additional capabilities include automatic file retrieval and scheduled script execution.
-
-- 🛠 v0.1.0-beta
-
-### [Airflow Damper Testing](https://github.com/automatic-controls/airflow-test-addon)
-WebCTRL add-on that evaluates airflow responsiveness to damper commands according to design parameters.
 
 - 🛠 v0.1.0-beta
 

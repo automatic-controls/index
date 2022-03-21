@@ -1,5 +1,9 @@
 ## Weekly Progress Log
 
+### **03/07/2022 - 03/11/2022**
+- Worked on Centralizer for *WebCTRL*
+- Finished airflow damper testing addon
+
 ### **02/28/2022 - 03/04/2022**
 - Worked on Centralizer for *WebCTRL*
 - Started work on airflow damper testing addon
